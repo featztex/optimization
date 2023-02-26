@@ -4,4 +4,5 @@ Optimization HWs:
 | 1        | +              | -              | +                 |
 | 2        | -              | -              | +                 |
 | 3        | +              | -              | -                 |
+
 Last update: 18:40 26.02  
